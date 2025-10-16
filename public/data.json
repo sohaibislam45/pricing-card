@@ -28,7 +28,7 @@
     "id": 2,
     "package_name": "Student",
     "popularity": "budget friendly",
-    "price_per_month": 1500,
+    "price_per_month": 1000,
     "duration_months": 1,
     "access_time": "6 AM - 8 PM",
     "features": [
