@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "package_name": "Basic",
+    "popularity": "most popular",
+    "price_per_month": 2000,
+    "duration_months": 1,
+    "access_time": "6 AM - 9 PM",
+    "features": [
+      "Access to gym floor and cardio area",
+      "Free fitness assessment once a month",
+      "Personal trainer: Not included",
+      "Group classes included: No",
+      "Diet plan: Not included"
+    ],
+    "discount": "No current offers",
+    "image": "https://picsum.photos/seed/gym_basic/800/600",
+    "missing_features": [
+      "Access to all gym equipment",
+      "Monthly fitness assessment (extended/support)",
+      "Unlimited access to gym and all facilities (24/7)",
+      "Personal trainer (3 sessions/week)",
+      "Custom diet and nutrition plan",
+      "Guest pass (1/month)"
+    ]
+  },
+  {
+    "id": 2,
+    "package_name": "Student",
+    "popularity": "budget friendly",
+    "price_per_month": 1500,
+    "duration_months": 1,
+    "access_time": "6 AM - 8 PM",
+    "features": [
+      "Access to all gym equipment",
+      "Monthly fitness assessment",
+      "Personal trainer: Not included",
+      "Group classes included: Yes",
+      "Diet plan: Included"
+    ],
+    "discount": "20% off with valid student ID",
+    "image": "https://picsum.photos/seed/gym_student/800/600",
+    "missing_features": [
+      "Unlimited access to gym and all facilities (24/7)",
+      "Personal trainer (3 sessions/week)",
+      "Custom diet and nutrition plan (personalized beyond basic)",
+      "Guest pass (1/month)"
+    ]
+  },
+  {
+    "id": 3,
+    "package_name": "Premium",
+    "popularity": "exclusive",
+    "price_per_month": 4000,
+    "duration_months": 1,
+    "access_time": "24/7 Access",
+    "features": [
+      "Unlimited access to gym and all facilities",
+      "Personal trainer (3 sessions/week)",
+      "Custom diet and nutrition plan",
+      "Steam & sauna access",
+      "Priority locker and towel service",
+      "Guest pass (1/month)",
+      "Personal trainer: Included",
+      "Group classes included: Yes",
+      "Diet plan: Included"
+    ],
+    "discount": "Free protein shake for first month",
+    "image": "https://picsum.photos/seed/gym_premium/800/600",
+    "missing_features": []
+  }
+]
